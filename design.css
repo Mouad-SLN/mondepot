@@ -1,0 +1,13 @@
+body
+{
+    background-color:  burlywood;
+}
+
+div
+{
+    border: 1px solid red;
+    background-color: aqua;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+}
